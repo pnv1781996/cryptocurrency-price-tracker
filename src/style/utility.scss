@@ -1,0 +1,202 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.h-100vh {
+  height: 100vh;
+}
+
+// Text
+.desktop-head-h3 {
+  font-size: 32px;
+  line-height: 51px;
+}
+
+.desktop-head-h5 {
+  font-size: 24px;
+  line-height: 38px;
+}
+
+.para-p2 {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.para-p4 {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.para-p3 {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+// Font weight
+.w-20 {
+  width: 20%;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.font-small {
+  font-weight: 300;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.font-semi-bold {
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-extra-bold {
+  font-weight: 800;
+}
+
+.font-black {
+  font-weight: 900;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.gap-3 {
+  gap: 16px;
+}
+
+.gap-4 {
+  gap: 24px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.items-start {
+  align-items: flex-start;
+}
+
+.items-end {
+  align-items: flex-end;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-baseline {
+  align-items: baseline;
+}
+
+.items-stretch {
+  align-items: stretch;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.border-grey {
+  border: 1px solid gray;
+}
+
+.border-light-grey {
+  border: 1px solid lightgray;
+}
+
+.border-radius-8 {
+  border-radius: 8px;
+}
+
+.p-0 {
+  padding: 0;
+}
+.p-1 {
+  padding: 4px;
+}
+
+.p-2 {
+  padding: 8px;
+}
+
+.p-4 {
+  padding: 16px;
+}
+
+.mtb-4 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.p-6 {
+  padding: 24px;
+}
+
+.pl-6 {
+  padding-left: 24px;
+}
+
+.pr-6 {
+  padding-right: 24px;
+}
+
+.p-8 {
+  padding: 32px;
+}
+
+.p-10 {
+  padding: 40px;
+}

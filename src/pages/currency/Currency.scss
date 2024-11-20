@@ -1,0 +1,31 @@
+.crypto-wrapper {
+  height: 100%;
+  .crypto-title {
+    @media (max-width: 700px) {
+      flex-direction: column;
+      gap: 16px;
+    }
+  }
+  .custom-searchbar {
+    .ant-input-wrapper {
+      width: 450px;
+      @media (min-width: 700px) and (max-width: 900px) {
+        width: 300px;
+      }
+      .ant-input-affix-wrapper {
+        height: 50px;
+      }
+      .ant-input-group-addon {
+        .ant-btn {
+          height: 50px;
+        }
+      }
+    }
+  }
+
+  .searchbar {
+    @media (max-width: 700px) {
+      justify-content: center !important;
+    }
+  }
+}
